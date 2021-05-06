@@ -1,0 +1,2 @@
+# tweet_predict_covid
+The project collected COVID-related tweets from 49 cities in the United States from March 2020 to March 2021. We first predict whether a tweet was COVID-related or not even though they have certain COVID hashtag/keyword in it by building a logistic regression model. Then we analyzed the sentiment toward COVID in each city in each month, and used it along with other features to predict COVID death and COVID cases in the city of the month. 
